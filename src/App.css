@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+/* src/App.css */
+body {
+  @apply bg-gray-100;
+}
